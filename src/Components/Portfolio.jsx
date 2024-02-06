@@ -31,28 +31,25 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Oju's Blog",
+    description: "Full Stack Blogging Platform Built using MERN Stack",
+    url: "https://github.com/ojasaklechayt/Oju-s-Blogs",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Reslink Dashboard Frontend",
+    description: "Reslink Frontend Dashboard",
+    url: "https://github.com/ojasaklechayt/Reslink-Dashboard",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/ojasaklechayt/Ojas_Aklecha-Paper_Portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Music Stream Application",
+    description: "Music Stream Application built with Node JS",
+    url: "https://github.com/ojasaklechayt/Music-Streaming-App",
   },
 ];
 
